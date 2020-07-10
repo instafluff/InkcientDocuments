@@ -1,0 +1,30 @@
+{
+  "name": "inkcientdocuments",
+  "version": "1.0.0",
+  "description": "Using Microsoft Azure Ink Recognizer to decipher ancient documents!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/instafluff/InkcientDocuments.git"
+  },
+  "keywords": [
+    "Azure",
+    "Microsoft",
+    "Ink",
+    "Recognizer",
+    "Instafluff"
+  ],
+  "author": "Instafluff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/instafluff/InkcientDocuments/issues"
+  },
+  "homepage": "https://github.com/instafluff/InkcientDocuments#readme",
+  "dependencies": {
+    "potrace": "^2.1.6",
+    "webwebweb": "^1.4.0"
+  }
+}
